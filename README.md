@@ -18,7 +18,7 @@ The neural network created for this project was inspired by Make Your Own Neural
 
 Neural network requires a lot of examples to work properly. To make the teaching process even easier for the user, I developed a supplementary GUI called [DigitalLearning.py](DigitalLearning.py) that asks the user to draw digits it requires for more accurate recognition.
 
-![screenshot of the supplementary GUI](3.png)
+![screenshot of the supplementary GUI](screenshots/3.png)
 
 ## License
 
