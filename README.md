@@ -20,6 +20,17 @@ Neural network requires a lot of examples to work properly. To make the teaching
 
 ![screenshot of the supplementary GUI](screenshots/3.png)
 
+## Text-to-speech functionality
+
+I also implemented functionality that gives the neural network its own voice. Each time the recognition happens, the program speaks out it's guess, i.e. "I think you drew 4". This is done using the Pyttsx3 module. To enable this, uncomment lines 435-437 of [DigitalRecognition.py](DigitalRecognition.py).
+
+
+## Further development
+
+1. Since text-to-speech is already implemented, it now makes sense to allow the user to also speak to the GUI, i.e. when answering which number they meant to draw.
+
+2. To make the recognition even more precise, the dataset needs more examples of different people's handwriting.
+
 ## License
 
 [MIT](LICENSE)
