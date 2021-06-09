@@ -20,4 +20,4 @@ Neural network requires a lot of examples to work properly. To make the teaching
 
 ## License
 
-Nothing here
+[MIT](LICENSE)
