@@ -1,6 +1,6 @@
 # Digit-Guesser
 
-Digit Guesser is a Python GUI that guesses user's handwritten digits using a neural network. Developed by me in 2018 while studying the basics of neural networks.
+Digit Guesser is a Python GUI that guesses user's handwritten digits using a neural network. Developed by me in 2018 while studying the basics of machine learning.
 
 ## Interface
 
